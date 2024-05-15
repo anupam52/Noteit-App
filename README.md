@@ -4,8 +4,7 @@ In NoteIt App a user can create account and and can make personalized notes for 
 
 ![img1](https://user-images.githubusercontent.com/55550358/185771345-5bb809c9-c541-4e31-8dbd-f8a3838148c9.png)
 ![img4](https://user-images.githubusercontent.com/55550358/185771349-5cd75428-2064-47b9-894c-617fc765ff8e.png)
-![img3](https://user-images.githubusercontent.com/55550358/185771350-deb90aa3-4a33-4909-a9fa-8a551d678941.png)
-![img2](https://user-images.githubusercontent.com/55550358/185771352-10935594-d1fb-497d-8839-03e6b355d64a.png)
+
 
 ### `user Benifits:-`
 
